@@ -1,0 +1,11 @@
+21:24:51.516172 IP localhost.48187 > localhost.9877: Flags [S], seq 386098412, win 43690, options [mss 65495,sackOK,TS val 216504938 ecr 0,nop,wscale 10], length 0
+21:24:51.516187 IP localhost.9877 > localhost.48187: Flags [S.], seq 2936949032, ack 386098413, win 43690, options [mss 65495,sackOK,TS val 216504938 ecr 216504938,nop,wscale 10], length 0
+21:24:51.516196 IP localhost.48187 > localhost.9877: Flags [.], ack 1, win 43, options [nop,nop,TS val 216504938 ecr 216504938], length 0
+21:24:53.143884 IP localhost.48187 > localhost.9877: Flags [P.], seq 1:5, ack 1, win 43, options [nop,nop,TS val 216505345 ecr 216504938], length 4
+21:24:53.143953 IP localhost.9877 > localhost.48187: Flags [.], ack 5, win 43, options [nop,nop,TS val 216505345 ecr 216505345], length 0
+21:24:53.143978 IP localhost.9877 > localhost.48187: Flags [P.], seq 1:5, ack 5, win 43, options [nop,nop,TS val 216505345 ecr 216505345], length 4
+21:24:53.143986 IP localhost.48187 > localhost.9877: Flags [.], ack 5, win 43, options [nop,nop,TS val 216505345 ecr 216505345], length 0
+21:24:55.634735 IP localhost.48187 > localhost.9877: Flags [F.], seq 5, ack 5, win 43, options [nop,nop,TS val 216505968 ecr 216505345], length 0
+21:24:55.634864 IP localhost.9877 > localhost.48187: Flags [F.], seq 5, ack 6, win 43, options [nop,nop,TS val 216505968 ecr 216505968], length 0
+21:24:55.634880 IP localhost.48187 > localhost.9877: Flags [.], ack 6, win 43, options [nop,nop,TS val 216505968 ecr 216505968], length 0
+
